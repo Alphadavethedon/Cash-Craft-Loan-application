@@ -1,5 +1,5 @@
 
-# 💸 Cash Craft Loan Application
+# 💸 Cash Craft Loans
 
 **A modern digital lending platform built for the Kenyan market.**  
 Fast. Secure. AI-powered (coming soon).
